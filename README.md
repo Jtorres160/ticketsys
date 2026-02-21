@@ -40,7 +40,7 @@ it-ticketing-system/
 └── requirements.txt
 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/it-ticketing-system.git
+git clone [https://github.com/yourusername/it-ticketing-system.git](https://github.com/Jtorres160/ticketsys)
 cd it-ticketing-system
 2. Create a virtual environment (recommended)
 python -m venv venv
