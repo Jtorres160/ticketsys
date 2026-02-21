@@ -1,4 +1,4 @@
-# ticketsys
+# Matix
 IT Ticketing System
 
 A lightweight IT ticketing system built in Python that allows users to create, track, update, and resolve support tickets. This project simulates a real-world help desk workflow and is designed to demonstrate core programming concepts, data handling, and system logic.
